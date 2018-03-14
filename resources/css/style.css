@@ -18,6 +18,7 @@ header {
 }
 li {
   color: white;
+
 }
 
 h1 {
@@ -37,7 +38,15 @@ h1.back {
   color: white;
   font-size: 25px;
 }
-h4.botton_line {
-  background-color: gray;
+li.copyright {
+  background-color: dimgray;
   text-align: left;
+  font-size: 11px;
+}
+ul.line{
+  background-color: dimgray;
+  text-align: left;
+}
+ul.line li {
+  display: inline-block;
 }
