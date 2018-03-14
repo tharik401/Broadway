@@ -3,14 +3,18 @@
   font-family: Helvetica, sans-serif;
   font-weight: bold;
 }
+p {
+  font-size: 14px;
+  font-weight: 400;
+}
 ul {
   list-style-type: none;
   font-size: 18px
-
 }
 header {
   background-image: url(../images/builden.png);
   background-size: cover;
+
 }
 li {
   color: white;
@@ -19,4 +23,21 @@ li {
 h1 {
   font-size: 70px;
   color: white;
+}
+h2.process{
+  font-size: 32px;
+}
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+h1.back {
+  background-image: url(../images/builden.png);
+  background-size: cover;
+  color: white;
+  font-size: 25px;
+}
+h4.botton_line {
+  background-color: gray;
+  text-align: left;
 }
