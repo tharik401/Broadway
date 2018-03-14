@@ -1,5 +1,7 @@
 *{
   text-align: center;
-  margin: auto;
   font-family: Helvetica, sans-serif;
+}
+ul {
+  list-style-type: none;
 }
